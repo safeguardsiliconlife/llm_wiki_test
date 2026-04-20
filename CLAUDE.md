@@ -78,14 +78,18 @@ Brief note on what was added or changed.
 When `/ingest` is invoked:
 
 1. Read this file (CLAUDE.md) first for conventions
-2. Receive the source (file path or pasted text)
+2. Determine the source:
+   - If a file path was given, use that
+   - If no argument, run `git status` to find untracked files in `raw/` and offer to ingest them
+   - If pasted text, treat as an inline snippet (no raw file)
 3. Briefly summarize key takeaways to the user (2-3 sentences), confirm emphasis
 4. Determine what pages to create or update
 5. Create a `summary` or `snippet` page in `wiki/`
 6. Create or update any relevant `concept` or `entity` pages; add cross-links
 7. Append an entry to `wiki/log.md`
 8. Update `wiki/index.md` with all new/changed pages
-9. Report: pages created, pages updated
+9. Commit everything: `git add -A && git commit -m "[YYYY-MM-DD] ingest | <title>"`
+10. Report: pages created, pages updated
 
 **Cross-linking rule:** Use `[[Page Title]]` syntax. If a concept is mentioned that doesn't have its own page yet but warrants one, create a stub.
 
