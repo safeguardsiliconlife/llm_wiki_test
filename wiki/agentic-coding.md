@@ -22,5 +22,9 @@ The capability of an LLM to autonomously complete multi-step software engineerin
 ## Key Techniques
 - **`preserve_thinking`** — carry reasoning traces across turns so the model retains context in long agentic loops (used in [[Qwen3.6-Max-Preview]])
 
+## Multi-Agent Patterns
+- **[[Multi-Agent CLI Orchestration]]** — coordinating multiple LLM agents across vendors via CLI resume flags or tmux, without API costs
+
 ## Related
 - [[Qwen3.6-Max-Preview]]
+- [[Multi-Agent CLI Orchestration]]

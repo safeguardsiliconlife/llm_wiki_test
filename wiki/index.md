@@ -4,6 +4,7 @@
 - [[Agentic Coding]] — LLM capability to autonomously complete multi-step software engineering tasks
 - [[AI Media Traffic Disruption]] — AI answering informational queries directly, collapsing referral traffic to news publishers
 - [[Depravity Economy]] — platforms that monetise or gamify tragedy and suffering as engagement mechanics
+- [[Multi-Agent CLI Orchestration]] — coordinating LLMs across vendors via CLI resume flags or tmux, without API costs
 - [[SaaSpocalypse]] — structural disruption of SaaS businesses by frontier AI labs who build competing products at near-zero cost
 
 ## Entities
@@ -19,6 +20,7 @@
 ## Summaries
 - [[Figma's Woes Compound with Claude Design]] — analysis of Figma's AI vulnerability and Claude Design's competitive impact (Alderson, 2026-04-18)
 - [[Forbes Prediction Market Gamifies Mass Shooting Story]] — ForbesPredict widget placed on Shreveport shooting coverage (Gault, 2026-04-20)
+- [[Lightweight Multi-Agent CLI Orchestration]] — CLI resume + tmux patterns for cross-vendor agent collaboration without API costs (juanpabloaj, 2026-04-16)
 - [[Qwen3.6-Max-Preview]] — early preview of Qwen's next proprietary model with agentic coding gains
 
 ## Syntheses

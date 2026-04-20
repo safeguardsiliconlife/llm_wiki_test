@@ -2,6 +2,9 @@
 
 <!-- append new entries below, most recent first -->
 
+## [2026-04-20] ingest | Lightweight Multi-Agent CLI Orchestration
+Ingested juanpabloaj.com article (2026-04-16) on subscription-only multi-agent workflows via CLI resume flags and tmux. Created summary page and concept page for Multi-Agent CLI Orchestration. Updated Agentic Coding page with cross-link.
+
 ## [2026-04-20] ingest | Forbes Prediction Market Gamifies Mass Shooting Story
 Ingested 404 Media article (Gault, 2026-04-20) on ForbesPredict widget placed on Shreveport mass-shooting coverage. Created summary page, entity pages for ForbesPredict, Axiom, and Matthew Gault, and concept pages for Depravity Economy and AI Media Traffic Disruption. Cross-linked to SaaSpocalypse.
 
