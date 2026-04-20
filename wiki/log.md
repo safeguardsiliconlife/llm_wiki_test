@@ -2,6 +2,9 @@
 
 <!-- append new entries below, most recent first -->
 
+## [2026-04-20] ingest | URR 0.11 Update #57: Map Geometry and Island Prevention
+Ingested Mark R Johnson dev blog post (2026-04-10) on anchor grid technique for island-free map generation. Created summary, entity pages for Ultima Ratio Regum and Mark R Johnson, and concept page for Anchor Grid Island Prevention with flood-fill comparison table.
+
 ## [2026-04-20] ingest | Lightweight Multi-Agent CLI Orchestration
 Ingested juanpabloaj.com article (2026-04-16) on subscription-only multi-agent workflows via CLI resume flags and tmux. Created summary page and concept page for Multi-Agent CLI Orchestration. Updated Agentic Coding page with cross-link.
 
